@@ -55,6 +55,8 @@ This project demonstrates the practical implementation of cloud-connected IoT sy
 | Cathode (-) | GND |
 
 ---
+## Circuit Diagram
+![Circuit Diagram](Circuit_Diagram.png)
 
 ## ⚙️ Working Principle
 
@@ -96,12 +98,14 @@ String apiKey = "YOUR_WRITE_API_KEY";
 ---
 
 ## 📷 Output
+### Circuit Output
+![Circuit Output](Circuit_Output.png)
 
 ### Serial Monitor
-![Serial Monitor](Output(1).png)
+![Serial Monitor](Serial_Monitor_Output.png)
 
 ### ThingSpeak Output
-![ThingSpeak Dashboard](Output(2).png)
+![ThingSpeak Dashboard](Thingspeak_Output.png)
 
 ## 🎯 Applications
 
