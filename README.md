@@ -98,7 +98,7 @@ String apiKey = "YOUR_WRITE_API_KEY";
 ## 📷 Output
 
 ### Serial Monitor
-![Serial Monitor](images/Output(1).png)
+![Serial Monitor](Output(1).png)
 
 ### ThingSpeak Output
 ![ThingSpeak Dashboard](Output(2).png)
