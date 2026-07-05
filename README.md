@@ -128,7 +128,9 @@ String apiKey = "YOUR_WRITE_API_KEY";
 - Easy to expand with additional sensors
 - User-friendly cloud dashboard
 
+## 📄 Project Report
 
+📥 **[Download Project Report](Smart_lighting_System_using_thingspeak.docx)**
 
 ## 👨‍💻 Author
 
